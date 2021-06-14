@@ -7,3 +7,10 @@ Escaping Toro Sanctum is a text-based adventure game, which can be played via a 
 
 
 This repo is for sharing and editing the pygame files, which will be added to IDE Trinket and Replit. IDE (intergrated development environments) allow for coding and sharing to take place straight from a browser. 
+
+
+Imported modules:
+- Pygame
+- Time
+- Sys
+- Random 
